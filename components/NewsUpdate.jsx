@@ -10,7 +10,7 @@ export default function NewsUpdatesSection() {
           News & Updates
         </h2>
 
-        {/* Content */}
+      
         <div className="space-y-6 sm:space-y-8">
           {/* News Item 1 */}
           <div>
