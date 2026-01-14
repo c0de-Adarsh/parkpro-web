@@ -8,22 +8,25 @@ export default function HeroSection() {
     <section className="relative pt-44 sm:pt-48 pb-12 sm:pb-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
       <div className="max-w-7xl mx-auto">
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
-          {/* Left Content */}
+       
           <div className="space-y-6 sm:space-y-8 animate-fade-in relative z-10">
-            {/* Main Heading */}
+       
             <h1 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold leading-tight">
               <div className="text-black">DIGITAL PARKING</div>
               <div className="text-black">PLATFORM</div>
             </h1>
 
-            {/* Subheading */}
+           
             <div className="flex items-center text-lg sm:text-xl lg:text-2xl">
-              <span className="text-black">ParkPro - The Digital Platform for a Smarter <br /> Parking Experience</span>
+              {/* <span className="text-black">ParkPro - The Digital Platform for a Smarter <br /> Parking Experience</span> */}
             </div>
 
-            {/* Description */}
+            
             <p className="text-base sm:text-2xl text-gray-700 leading-relaxed max-w-2xl">
-              ParkPro makes it simple to report and manage parking issues digitally. Through our mobile app, users can easily report wrongly parked vehicles, occupied rented spaces, or broken pay kiosks. Each report is automatically sent to the correct authority and can be tracked in real time. Efficient. Transparent. Fair.
+       ParkPro är en modern, digital app för privatpersoner, bostadsrättsföreningar, kommuner och fastighetsägare som vill hantera parkeringsproblem snabbt, rättvist och utan onödig administration.
+Rapportera felparkeringar, tagna hyrda parkeringsplatser eller trasiga biljettautomater direkt i mobilen.
+Med foto, GPS och spårbarhet ser ParkPro till att rätt aktör får rätt information direkt.
+Clean desk. Better flow.
             </p>
 
             {/* CTA Button */}
