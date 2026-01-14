@@ -12,7 +12,7 @@ export default function NewsUpdatesSection() {
 
       
         <div className="space-y-6 sm:space-y-8">
-          {/* News Item 1 */}
+       
           <div>
             <h3 className="text-xl sm:text-2xl font-bold text-black mb-3">
               ParkPro launches in Värndo Municipality!
