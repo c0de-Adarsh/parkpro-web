@@ -5,7 +5,7 @@ export default function NewsUpdatesSection() {
   return (
     <section className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-white">
       <div className="max-w-4xl mx-auto text-center">
-        {/* Section Heading */}
+     
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-black mb-8 sm:mb-10">
           News & Updates
         </h2>
